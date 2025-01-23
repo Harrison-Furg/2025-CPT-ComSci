@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### App instructions
+
+Hello Mr Penney!
+This is my final cpt project. 
+All the instructions are important and your gonna need to run npm install in the console due to the massive size
+a folder that I couldnt upload into the github.
+
+This app was made with the purpose of tracking, catalouging, and exporting data pertaining to the 2025 FRC games.
+Video explaining the game here: (https://www.youtube.com/watch?v=YWbxcjlY9JY&ab_channel=FIRSTRoboticsCompetition)
+[https://www.youtube.com/watch?v=YWbxcjlY9JY&ab_channel=FIRSTRoboticsCompetition]
+
+The app has 2 main components. The data gathering section, and the qr scanning section.
+
+The data gathering sections are found by pressing the start scouting button and the human scouting button. Start 
+scouting is the main function to gather data on the robots playing, while the human scouting section is to 
+track the preformance of the human player.
+
+The QR scanning section is used to take the qr code that is generated and putting it into a csv which can then be 
+downloaded and put into a spreadsheet. 
+
+### Finishing
+
+If the app has any problems, please email me.
+Thanks
