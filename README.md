@@ -73,12 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Hello Mr Penney!
 This is my final cpt project. 
-All the instructions are important and your gonna need to run npm install in the console due to the massive size
-a folder that I couldnt upload into the github.
+All the instructions above are important and your gonna need to run npm install in the terminal due to the massive
+size that a folder containing important react plugins that I couldnt upload into the github do to a limit of 1000 
+files per commit.
 
-This app was made with the purpose of tracking, catalouging, and exporting data pertaining to the 2025 FRC games.
-Video explaining the game here: (https://www.youtube.com/watch?v=YWbxcjlY9JY&ab_channel=FIRSTRoboticsCompetition)
-[https://www.youtube.com/watch?v=YWbxcjlY9JY&ab_channel=FIRSTRoboticsCompetition]
+This app was made with the purpose of tracking, cataloging, and exporting data pertaining to the 2025 FRC games.
+Video explaining the game here: https://www.youtube.com/watch?v=YWbxcjlY9JY&ab_channel=FIRSTRoboticsCompetition
 
 The app has 2 main components. The data gathering section, and the qr scanning section.
 
